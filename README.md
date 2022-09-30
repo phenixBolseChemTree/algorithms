@@ -2,4 +2,5 @@
 
 # repo most popular algoritms for the lazy
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Alt text](https://github.com/phenixBolseChemTree/algorithms/blob/main/ScreenShots/fatMan.png)
+ 
